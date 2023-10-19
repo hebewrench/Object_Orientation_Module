@@ -1,0 +1,12 @@
+Sorting Algorithm
+I used a merge sort algorithm for the sorting aspect of my program. This algorithm 
+has an average, best, and worse case time complexity of O(n log n). The merge 
+sort algorithm breaks down the initial list into many smaller lists then 
+merges and sorts them. The time complexity is O(n log n) as a result of the 
+recursion that is utilised in the algorithm. 
+
+Adding Algorithm
+The algorithm that I used has a worst case time complexity of O(N1+N2). 
+This is because I have used only two loops, and they are not nested, with one
+being of size N1 and the other size N2. As these are not necessarily the same
+size, we cannot claim the complexity to be O(N). 
